@@ -1,3 +1,3 @@
-bucket = "tf-state-db74"
+bucket = "tf-state-sgdev"
 key = "dev/terrafrom.tfstate"
 region = "us-east-1"
