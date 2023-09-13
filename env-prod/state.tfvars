@@ -1,3 +1,3 @@
 bucket = "tf-state-sgdev"
-key = "prod/terrafrom.tfstate"
+key = "prod/terraform.tfstate"
 region = "us-east-1"
