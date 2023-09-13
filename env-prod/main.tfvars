@@ -40,7 +40,5 @@ components = {
       instance_type = "t3.small"
     }
   }
-security_groups = {
-  default = ["sg-0ae3d8fafa987a7e9"]
-}
+security_groups = ["sg-0ae3d8fafa987a7e9"]
 zone_id = "Z02270343NL9KMFFFDGTD"
