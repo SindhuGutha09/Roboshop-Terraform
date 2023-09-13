@@ -1,5 +1,5 @@
 module "components" {
-  source          = "git::https://github.com/SindhuGutha09/tf-module-test.git"
+  source          = "git::https://github.com/SindhuGutha09/tf-module-sample.git"
   for_each        = var.components
 
   zone_id         = var.zone_id
