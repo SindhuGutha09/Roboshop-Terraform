@@ -39,6 +39,7 @@ components = {
     name          = "rabbitmq"
     instance_type = "t3.micro"
   }
+
+  security_groups = ["sg-0ae3d8fafa987a7e9"]
+  zone_id         = "Z02270343NL9KMFFFDGTD"
 }
-security_groups = ["sg-0ae3d8fafa987a7e9"]
-zone_id = "Z02270343NL9KMFFFDGTD"
